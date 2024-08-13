@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: AOC_SimpleMotionPistol
+  m_Controller: {fileID: 9100000, guid: 4a6f572e9d36b73439af230ec4238778, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: -203655887218126122, guid: 1b0fa16ccce045f47b2ab966f513699a,
+      type: 3}
+    m_OverrideClip: {fileID: -203655887218126122, guid: 7a053557d19d9da48892ea3663494107,
+      type: 3}
