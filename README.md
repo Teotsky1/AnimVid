@@ -1,5 +1,9 @@
 Hola Checho! Por acá te dejo todo bien organizadito ;)
+
+
+
 <details>
+  <summary> Proyectos: </summary>
 <details>
   <summary> Proyecto 1 Rig </summary>
 
