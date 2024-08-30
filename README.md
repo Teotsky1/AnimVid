@@ -1,6 +1,5 @@
-Hola.
-
-
+Hola Checho! Por acá te dejo todo bien organizadito ;)
+<details>
 <details>
   <summary> Proyecto 1 Rig </summary>
 
@@ -17,4 +16,4 @@ https://github.com/user-attachments/assets/bd03cb67-45f7-4eb1-a8e5-44e0bc081515
 
 </details>
 
-
+</details>
