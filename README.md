@@ -3,8 +3,6 @@ Hola Checho! Por acá te dejo todo bien organizadito ;)
 
 
 <details>
-  <summary> Proyectos: </summary>
-<details>
   <summary> Proyecto 1 Rig </summary>
 
 ![image](https://github.com/user-attachments/assets/e33e74d8-12e2-4f93-a564-87d93b5a51e6)
@@ -19,5 +17,29 @@ https://github.com/user-attachments/assets/bd03cb67-45f7-4eb1-a8e5-44e0bc081515
 
 
 </details>
+
+<details>
+  <summary> Proyecto 2 Rig </summary>
+
+
+
+
+
+
+</details>
+<details>
+  <summary> Proyecto 3 Rig </summary>
+
+
+
+
+
+</details>
+<details>
+  <summary> Proyecto 4 Rig </summary>
+
+
+
+
 
 </details>
