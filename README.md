@@ -29,7 +29,15 @@ https://github.com/user-attachments/assets/8562717f-3a05-466b-9bf8-c843a13cb31d
 </details>
 <details>
   <summary> Proyecto 3 Combate </summary>
-![Imagen de WhatsApp 2024-11-13 a las 12 04 30_d0e8d4f7](https://github.com/user-attachments/assets/61f667b2-940d-431f-8eda-64c226ada2a6)
+![Imagen de WhatsApp 2024-11-13 a las 12 04 30_33b6f0ec](https://github.com/user-attachments/assets/9973323f-80c1-46ec-9f90-14b95e9ff801)
+![Imagen de WhatsApp 2024-11-13 a las 12 05 05_d873596a](https://github.com/user-attachments/assets/678a267a-2621-4d28-9c77-7e73fea9cc58)
+
+
+
+
+
+https://github.com/user-attachments/assets/5a480be0-2350-4fe9-bcfb-ce581d8c09b5
+
 
 
 
